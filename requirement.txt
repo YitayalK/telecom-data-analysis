@@ -4,3 +4,4 @@ numpy
 pandas
 pip install psycopg2-binary
 SQLAlchemy
+python-dotenv
